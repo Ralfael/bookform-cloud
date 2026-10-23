@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203238786500",
+    "project_id": "cloudfirestore-406e0",
+    "storage_bucket": "cloudfirestore-406e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203238786500:android:b736d1ea0a9162caee1091",
+        "android_client_info": {
+          "package_name": "com.example.bookform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHgms0xgV2a84KTsGMhFstn6d8IpPF3VM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
